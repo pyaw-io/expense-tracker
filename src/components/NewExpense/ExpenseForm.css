@@ -22,5 +22,7 @@
   }
   
   .new-expense__actions {
-    text-align: right;
+    text-align: center;
+    display: flex;
+    justify-content: center;
   }
