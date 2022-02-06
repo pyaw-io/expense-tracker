@@ -21,6 +21,3 @@ function ExpenseItem(props) {
 
 export default ExpenseItem;
 
-
-// usestate must be in the component func
-//
